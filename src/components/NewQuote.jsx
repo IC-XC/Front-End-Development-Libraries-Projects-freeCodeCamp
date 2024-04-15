@@ -30,3 +30,4 @@ export default class Quotes extends Component {
         </div>);
     }
 }
+
