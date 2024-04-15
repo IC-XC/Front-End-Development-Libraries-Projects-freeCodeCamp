@@ -1,2 +1,2 @@
-# Front-End-Development-Libraries-Projects-freeCodeCamp
+# 📖 Front-End-Development-Libraries-Projects
 Projects
