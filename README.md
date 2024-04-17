@@ -1,5 +1,5 @@
 # 📖 Front-End-Development-Libraries-Projects
-# 🎓 Projects
+# 🎓 Building practical projects
 
 * Random Quote Machine
 * Markdown Previewer
